@@ -57,4 +57,6 @@ The game reports: Hit, Miss, Ship Sunk, or All Ships Sunk.
 Win condition : A player wins when all five of the opponent’s ships are destroyed.
 
 Saving : The complete state is saved automatically and can be loaded later.
+## Setup Instructions
+Requires Python 3.8+
 

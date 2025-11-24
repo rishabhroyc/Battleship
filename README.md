@@ -59,4 +59,5 @@ Win condition : A player wins when all five of the opponent’s ships are destro
 Saving : The complete state is saved automatically and can be loaded later.
 ## Setup Instructions
 Requires Python 3.8+
+Tkinter must be available (which is default on most systems)
 
